@@ -1,0 +1,6 @@
+public class TestScript2.1{
+@Test
+public void TC1(){
+System.out.println("TC1:");
+    }
+}
